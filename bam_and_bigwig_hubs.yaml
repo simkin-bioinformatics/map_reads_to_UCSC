@@ -1,0 +1,12 @@
+#do not put a trailing slash in either of these
+output_folder: testing_pipeline
+url_prefix: http://psimkinwebcit.services.brown.edu:17381/browser_tracks/Pf_3D7/lfrynart/map_reads_to_UCSC/UCSC_reads
+
+bam_subfolder: mapped_bams
+email: alfred.simkin@gmail.com
+bam_hub_name: lucindah_4-3-25_run
+bigwig_hub_name: lucindah_4-3-25_run
+genome: Pf3D7
+samples:
+  - UE02111095-2022-wetseason-Ghana-1_S388
+  - UE0211092-2022-wetseason-Ghana-1_S382
